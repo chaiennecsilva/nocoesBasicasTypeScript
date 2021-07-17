@@ -1,4 +1,4 @@
-# nocoesBasicasTypeScript
+# Noções Basicas TypeScript
 Repositório criado para o módulo  TypeScript  no Gama Experience
 
 TypeScript é um superset para JavaScript, ou um conjunto adicional de instruções, keywords e estruturas, criado pela Microsoft.
